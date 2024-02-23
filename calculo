@@ -1,0 +1,8 @@
+nu1 = float(input("Digite o primeiro número da soma: "))
+nu2 = float(input("Digite o segundo número da soma:  "))
+
+# Calcula a soma
+soma = nu1 + nu2
+
+# Exibe o resultado
+print("A soma de", nu1, "e", nu2, "é igual a", soma)
